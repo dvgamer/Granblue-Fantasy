@@ -1,0 +1,11 @@
+@charset UTF-8;
+/* =========================================== */
+@font-face {
+	font-family: 'font_tsukushi_system_1';
+	src: url('./font_tsukushi_system_1_h.woff') format('woff'),
+	     url('./font_tsukushi_system_1_h.otf') format('opentype'),
+	     url('./font_tsukushi_system_1_h.ttf') format('truetype'),
+	     url('./font_tsukushi_system_1_h.svg#FontPlus') format('svg');
+	src: url('./font_tsukushi_system_1_h.eot')\9;
+}
+/* =========================================== */

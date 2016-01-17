@@ -1,0 +1,11 @@
+@charset UTF-8;
+/* =========================================== */
+@font-face {
+	font-family: 'font_tsukushi_theatre_33';
+	src: url('./font_tsukushi_theatre_33_h.woff') format('woff'),
+	     url('./font_tsukushi_theatre_33_h.otf') format('opentype'),
+	     url('./font_tsukushi_theatre_33_h.ttf') format('truetype'),
+	     url('./font_tsukushi_theatre_33_h.svg#FontPlus') format('svg');
+	src: url('./font_tsukushi_theatre_33_h.eot')\9;
+}
+/* =========================================== */
